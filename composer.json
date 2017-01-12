@@ -1,0 +1,8 @@
+{
+    "require": {
+        "edgedesign/phpqa": "^1.9",
+        "sebastian/phpcpd": "dev-master",
+        "jakub-onderka/php-parallel-lint": "^0.9.2",
+        "phpstan/phpstan": "^0.5.2"
+    }
+}
